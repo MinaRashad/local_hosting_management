@@ -1,5 +1,5 @@
+![preview](Screenshot%20From%202025-06-06%2016-01-01.png "Title")
 # How to run
-
 
 ## Install dependencies
 
@@ -24,5 +24,6 @@ sudo apt update && sudo apt install gum
 chmod +x start_home_server.sh
 ./start_home_server.sh
 ```
+
 
 
